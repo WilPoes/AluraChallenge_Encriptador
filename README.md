@@ -1,6 +1,7 @@
-<em> AluraChallenge </em>
+<em style="font-size:0.5em;"> AluraChallenge </em>
+# ![docusaurus](docusaurus.svg)
+
 <h1 align="center"> Bienvenida </h1>
-![Challenge](docusaurus.svg)
 
 <h1 align="center"> Comandos más utilizados Git </h1>
 
@@ -21,7 +22,7 @@ rpta -> origin
 # subiendo, fuerza y chanca, pese a estar vacios
 git push origin master --force
 
-#bajando
+# bajando
 git fetch --gitlink--
 git pull --gitlink--
 
